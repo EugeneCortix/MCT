@@ -12,6 +12,13 @@ INPUT_DIM = 0
 OUT_DIM = INPUT_DIM
 
 H_DIM = 10
+
+def printout(vector):
+    s=""
+    for element in vector[0]:
+        s+= str(element) +'\n'
+    with open("xpredicted.txt", "a") as f:
+        print(s, file=f)
 def ReturnValues(splitLine):
     lineEnd = []
 #    splitLine = splitLine.replace(',', '.')
@@ -46,7 +53,7 @@ def predict():
     h1 = relu(t1)       #activation
     t2 = h1 @ W2 + b2   #second layer
     h2 = relu(t2)
-    t3 = h2 @ W3
+    t3 = W3 @ h2
     t3 += b3
     #z = softmax(t2)
     return t3
@@ -84,14 +91,14 @@ def read_dataset():
 read(A, "A16.txt")
 read(b, "b16.txt")
 dataset = read_dataset()
-INPUT_DIM = len(A[0])
-OUT_DIM = len(b[0])
-W1 = np.random.randn(INPUT_DIM + 1, H_DIM + 1)
+INPUT_DIM = len(A[0]) + 1
+OUT_DIM = len(A[0])
+W1 = np.random.randn(INPUT_DIM, H_DIM + 1)
 W2 = np.random.randn(H_DIM + 1, OUT_DIM)
-W3 = np.random.randn(OUT_DIM, 1)
+W3 = np.random.randn(1, len(b[0]))
 b1 = np.random.randn(H_DIM + 1)
 b2 = np.random.randn(OUT_DIM)
-b3 = np.random.randn(OUT_DIM).reshape(OUT_DIM, 1)
+b3 = np.random.randn(OUT_DIM) #.reshape(OUT_DIM, 1)
 ALPHA = 0.0002
 NUM_EPOCHS = 400
 BATCH_SIZE = 50
@@ -108,7 +115,7 @@ for ep in range(NUM_EPOCHS):
         h1 = relu(t1)
         t2 = h1 @ W2 + b2
         h2 = relu(t2)
-        t3 = h2 @ W3
+        t3 = W3 @ h2
         t3 += b3
        # z = softmax_batch(t2)
        # E = np.sum(sparse_cross_entropy_batch(z, y))
@@ -130,4 +137,4 @@ for ep in range(NUM_EPOCHS):
         b2 = b2 - ALPHA * dE_db2
 
 probs = predict()
-print(probs)
+printout(probs)
