@@ -1,0 +1,43 @@
+﻿<Window x:Class="SKT.Inverse"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SKT"
+        mc:Ignorable="d"
+        Title="Inverse problem" Height="500" Width="800"
+        >
+    <!--Closing="Window_Closing"-->
+
+    <Grid x:Name="InverseWindow">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="340*"></ColumnDefinition>
+            <ColumnDefinition Width="131*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="357*"></RowDefinition>
+            <RowDefinition Height="127*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Image Stretch="Fill"  Grid.Column="0" Grid.Row="0" x:Name="graphImage" HorizontalAlignment="Left" Height="300" Margin="20,20,0,0" VerticalAlignment="Top" Width="500" />
+        <!--MouseLeftButtonDown="graphImage_MouseLeftButtonDown" MouseLeftButtonUp="GraphImage_MouseLeftButtonUp"-->
+        <Button Grid.Column="1" x:Name="fieldButtonInv" Content="Build the field" HorizontalAlignment="Center" VerticalAlignment="Top" Width="100" Height="20" Margin="0,145,0,0" Click="fieldButtonInv_Click"/>
+        <!--Click="FieldButtonInv_Click"-->
+        <Label Grid.Column="1" Content="Field X:" HorizontalAlignment="Left" Margin="33,21,0,0" VerticalAlignment="Top" Width="56" Height="23"/>
+        <TextBox Grid.Column="1" x:Name="xValInv" HorizontalAlignment="Left" Height="23" Margin="112,21,0,0" TextWrapping="Wrap" Text="1000" VerticalAlignment="Top" Width="73"/>
+        <Label Grid.Column="1" Content="Field Z:" HorizontalAlignment="Left" Margin="33,46,0,0" VerticalAlignment="Top" Width="56" Height="23"/>
+        <TextBox Grid.Column="1" x:Name="yValInv" HorizontalAlignment="Left" Height="23" Margin="112,46,0,0" TextWrapping="Wrap" Text="400" VerticalAlignment="Top" Width="73"/>
+        <Label Grid.Column="1" Content="Columns:" HorizontalAlignment="Left" Margin="33,83,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.677,-7.316" Width="60" Height="23"/>
+        <TextBox Grid.Column="1" x:Name="xCrushInv" HorizontalAlignment="Left" Height="23" Margin="112,83,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" Width="73"/>
+        <Label Grid.Column="1" Content="Rows:" HorizontalAlignment="Left" Margin="33,107,0,0" VerticalAlignment="Top" Width="60" Height="23"/>
+        <TextBox Grid.Column="1" x:Name="yCrushInv" HorizontalAlignment="Left" Height="23" Margin="112,107,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" Width="73"/>
+        <DataGrid x:Name="GridOfWInv"  Grid.ColumnSpan="2" Margin="577,220,15,2" />
+        <!--CellEditEnding="GridOfW_CellEditEnding"-->
+        <Button x:Name="CALC_P" Grid.Column="1" Content="Calculate P..." HorizontalAlignment="Left" Margin="120,57,0,0" Grid.Row="1" VerticalAlignment="Top" Height="20" Width="88" Click="CALC_P_Click"/>
+        <TextBox x:Name="alfa_regular_tBox" HorizontalAlignment="Left" Margin="120,10,0,0" Grid.Row="1" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Height="23" Width="88" Grid.Column="1"/>
+        <Label Grid.Column="1" Content="Регуляризация:" HorizontalAlignment="Left" Margin="21,9,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Button x:Name="Graph" Content="График аналитика" HorizontalAlignment="Left" Margin="10,22,0,0" Grid.Row="1" VerticalAlignment="Top" Click="Graph_Click" Width="134"/>
+        <Button x:Name="Graph1" Content="График обратки" HorizontalAlignment="Left" Margin="10,57,0,0" Grid.Row="1" VerticalAlignment="Top" Click="Graph1_Click" Width="134"/>
+        <TextBox x:Name="Func" Grid.Column="1" HorizontalAlignment="Left" Margin="25,99,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Функционал" VerticalAlignment="Top" Width="183"/>
+        <!--Click="CALC_B_Click"-->
+    </Grid>
+</Window>

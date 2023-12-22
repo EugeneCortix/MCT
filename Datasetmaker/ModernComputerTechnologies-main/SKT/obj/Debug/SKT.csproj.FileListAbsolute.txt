@@ -1,0 +1,99 @@
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\obj\Debug\SKT.csprojAssemblyReference.cache
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\obj\Debug\MainWindow.g.cs
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\obj\Debug\App.g.cs
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\obj\Debug\SKT_MarkupCompile.cache
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\obj\Debug\SKT_MarkupCompile.lref
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\bin\Debug\SKT.exe.config
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\bin\Debug\SKT.exe
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\bin\Debug\SKT.pdb
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\obj\Debug\MainWindow.baml
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\obj\Debug\SKT.g.resources
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\obj\Debug\SKT.Properties.Resources.resources
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\obj\Debug\SKT.csproj.GenerateResource.cache
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\obj\Debug\SKT.csproj.CoreCompileInputs.cache
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\obj\Debug\SKT.exe
+C:\Users\TANYA\Documents\Study\Программирование\SKT\SKT\obj\Debug\SKT.pdb
+D:\НГТУ\СКТ\SKT\bin\Debug\SKT.exe.config
+D:\НГТУ\СКТ\SKT\bin\Debug\SKT.exe
+D:\НГТУ\СКТ\SKT\bin\Debug\SKT.pdb
+D:\НГТУ\СКТ\SKT\obj\Debug\SKT.csproj.AssemblyReference.cache
+D:\НГТУ\СКТ\SKT\obj\Debug\SKT.csproj.SuggestedBindingRedirects.cache
+D:\НГТУ\СКТ\SKT\obj\Debug\MainWindow.g.cs
+D:\НГТУ\СКТ\SKT\obj\Debug\App.g.cs
+D:\НГТУ\СКТ\SKT\obj\Debug\SKT_MarkupCompile.cache
+D:\НГТУ\СКТ\SKT\obj\Debug\SKT_MarkupCompile.lref
+D:\НГТУ\СКТ\SKT\obj\Debug\MainWindow.baml
+D:\НГТУ\СКТ\SKT\obj\Debug\SKT.g.resources
+D:\НГТУ\СКТ\SKT\obj\Debug\SKT.Properties.Resources.resources
+D:\НГТУ\СКТ\SKT\obj\Debug\SKT.csproj.GenerateResource.cache
+D:\НГТУ\СКТ\SKT\obj\Debug\SKT.csproj.CoreCompileInputs.cache
+D:\НГТУ\СКТ\SKT\obj\Debug\SKT.exe
+D:\НГТУ\СКТ\SKT\obj\Debug\SKT.pdb
+Z:\СКТ\СКТ от 20.03\SKT\bin\Debug\SKT.exe.config
+Z:\СКТ\СКТ от 20.03\SKT\bin\Debug\SKT.exe
+Z:\СКТ\СКТ от 20.03\SKT\bin\Debug\SKT.pdb
+Z:\СКТ\СКТ от 20.03\SKT\obj\Debug\SKT.csprojAssemblyReference.cache
+Z:\СКТ\СКТ от 20.03\SKT\obj\Debug\MainWindow.g.cs
+Z:\СКТ\СКТ от 20.03\SKT\obj\Debug\App.g.cs
+Z:\СКТ\СКТ от 20.03\SKT\obj\Debug\SKT_MarkupCompile.cache
+Z:\СКТ\СКТ от 20.03\SKT\obj\Debug\SKT_MarkupCompile.lref
+Z:\СКТ\СКТ от 20.03\SKT\obj\Debug\MainWindow.baml
+Z:\СКТ\СКТ от 20.03\SKT\obj\Debug\SKT.g.resources
+Z:\СКТ\СКТ от 20.03\SKT\obj\Debug\SKT.Properties.Resources.resources
+Z:\СКТ\СКТ от 20.03\SKT\obj\Debug\SKT.csproj.GenerateResource.cache
+Z:\СКТ\СКТ от 20.03\SKT\obj\Debug\SKT.exe
+Z:\СКТ\СКТ от 20.03\SKT\obj\Debug\SKT.pdb
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\bin\Debug\SKT.exe.config
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\bin\Debug\SKT.exe
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\bin\Debug\SKT.pdb
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.csprojAssemblyReference.cache
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\MainWindow.g.cs
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\App.g.cs
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT_MarkupCompile.cache
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT_MarkupCompile.lref
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\MainWindow.baml
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.g.resources
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.Properties.Resources.resources
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.csproj.GenerateResource.cache
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.exe
+Z:\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.pdb
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\bin\Debug\SKT.exe.config
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\bin\Debug\SKT.exe
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\bin\Debug\SKT.pdb
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.csproj.AssemblyReference.cache
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.csproj.SuggestedBindingRedirects.cache
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\App.g.cs
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT_MarkupCompile.cache
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT_MarkupCompile.lref
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.g.resources
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.Properties.Resources.resources
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.csproj.GenerateResource.cache
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.csproj.CoreCompileInputs.cache
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.exe
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.pdb
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\Inverse.g.cs
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\BuildModel.g.cs
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\Inverse.baml
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\BuildModel.baml
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\GraphView.g.cs
+D:\НГТУ\СКТ\СКТ от 03.04\ModernComputerTechnologies-main\SKT\obj\Debug\GraphView.baml
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\bin\Debug\SKT.exe.config
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\bin\Debug\SKT.exe
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\bin\Debug\SKT.pdb
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.csproj.AssemblyReference.cache
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.csproj.SuggestedBindingRedirects.cache
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\Inverse.g.cs
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\BuildModel.g.cs
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\GraphView.g.cs
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\App.g.cs
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\SKT_MarkupCompile.cache
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\SKT_MarkupCompile.lref
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\Inverse.baml
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\BuildModel.baml
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\GraphView.baml
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.g.resources
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.Properties.Resources.resources
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.csproj.GenerateResource.cache
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.csproj.CoreCompileInputs.cache
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.exe
+C:\Users\TANYA\Documents\Study\NeuralNetwork\Datasetmaker\ModernComputerTechnologies-main\SKT\obj\Debug\SKT.pdb
