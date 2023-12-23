@@ -29,6 +29,7 @@ def ReturnValues(splitLine):
 def read(x, waytofile):
     with open(waytofile, 'r') as f:   # read matrix file
         for line in f:
+            line = line.replace(',', '.')
             x.append(float(line))
             #x.append(ReturnValues(line.split()))
 
@@ -53,13 +54,13 @@ def relu_deriv(t):
 
 def read_dataset():
     dset = []
-    for i in range (1, 3):
+    for i in range (1, 1):
         Pd = []
         Bd = []
 
-        filename = "dataset\\P" + str(i) +".txt"
+        filename = "dataset\\x" + str(i) +".txt"
         read(Pd, filename)
-        filename = "dataset\\B" + str(i) + ".txt"
+        filename = "dataset\\b" + str(i) + ".txt"
         read(Bd, filename)
         dspair = []
         dspair.append(Pd)
